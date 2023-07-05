@@ -16,11 +16,9 @@ export const GlobalStyle = createGlobalStyle`
     color: ${({ theme }) => theme["gray-300"]}  
  }
  
- body,input,textearea,button{
+ body,input,textarea,button{
     font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Mono', monospace;
-
-
  }
  
 
